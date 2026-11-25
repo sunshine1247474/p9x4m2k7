@@ -1,2 +1,12 @@
+User-agent: WhatsApp
+Allow: /
+Allow: /preview.jpg
+Disallow: /vault.bin
+
+User-agent: facebookexternalhit
+Allow: /
+Allow: /preview.jpg
+Disallow: /vault.bin
+
 User-agent: *
 Disallow: /
